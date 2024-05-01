@@ -17,7 +17,7 @@ Reporting and Analytics: Generates comprehensive reports and analytics on PPE co
 
 Installation To deploy the PPE Detection System, follow these steps:
 
-Clone the repository: git clone https://github.com/bilaldilbar54/Personal-Protective-Equipment-Detection-WebApp
+Clone the repository: git clone https://github.com/simranmodi1609/Personal-Protective-Equipment-Detection-WebApp
 
 Install dependencies: npm install
 
