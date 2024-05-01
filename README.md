@@ -50,6 +50,9 @@ License This project is licensed under the MIT License. Feel free to modify, dis
 Contact For questions, suggestions, or inquiries regarding the PPE Detection System, please contact the project maintainer:
 
 Muhammad Bilal: bilal.dilbar54@gmail.com,
+
 Simran Modi: simranmodi1997@gmail.com,
+
 Krishna Zala: krishnazala1411@gmail.com,
+
 Gowtham Katari: gowtham.katari2000@gmail.com
